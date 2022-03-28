@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshanpanda666
 - 👀 I’m interested in artificial intelligence 
 - 🌱 I’m currently learning machine learning 
-- 📫 How to reach me ...sabyasahi_panda_
+- 📫 How to reach me -> sabyasahi_panda_
 Is my insta ID
 
 <!---
