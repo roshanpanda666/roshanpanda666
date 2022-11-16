@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning 
 - 📫 How to reach me -> sabyasahi_panda_
 Is my insta ID
+- 📫 https://twitter.com/Roshan_panda007 twitter acount
 
 <!---
 roshanpanda666/roshanpanda666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
