@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,CSS,NextJs**
 
-- - 📫 How to reach me ? -> https://connect-with-roshan.vercel.app/
+- 📫 How to reach me ? -> https://connect-with-roshan.vercel.app/
 
 - ⚡ Fun fact **I think I am funny :)**
 
