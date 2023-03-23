@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Panda</h1>
 <h3 align="center">Just a guy who wanted to be a superhero at coding</h3>
-<img align="roght" alt="code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **ReactJs and TailwindCSS**
 
 - 💬 Ask me about **React,CSS,NextJs**
