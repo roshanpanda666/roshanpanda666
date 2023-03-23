@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Panda</h1>
 <h3 align="center">Just a guy who wanted to be a superhero at coding</h3>
-<img align="roght" alt="code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="right"> <a href="https://twitter.com/roshan_panda007" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_panda007?logo=twitter&style=for-the-badge" alt="roshan_panda007" /></a> </p>
+<img align="right" alt="code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <a href="https://twitter.com/roshan_panda007" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_panda007?logo=twitter&style=for-the-badge" alt="roshan_panda007" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs and TailwindCSS**
 
