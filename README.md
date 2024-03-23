@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React,CSS,NextJs**
 
-- 📫 How to reach me ?  https://connect-card-sabyasachi.vercel.app/
+- 📫 How to reach me ?  https://connect-with-sabyasachi-x.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
