@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Panda</h1>
-<h3 align="center">Just a guy who wants to be a superhero at coding</h3>
+<h3 align="center">Just a guy who wants to be a superhero in coding</h3>
 <img align="right" alt="code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **NEXT js and mongodb**
 
