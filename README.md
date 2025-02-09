@@ -1,62 +1,70 @@
-<h1 align="center">Hi 👋, I'm Roshan Panda</h1>
-<h3 align="center">AI Enthusiast | Building the Future with Code 🤖</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Panda;AI+%7C+Full-Stack+Developer;Building+Future+With+Code+%F0%9F%A4%96">
+  </a>
+</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Coding" width="400">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding" width="300"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F715&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Explorer;Open+Source+Contributor;Tech+Content+Creator;Problem+Solver">
+  <img src="https://komarev.com/ghpvc/?username=roshanpanda666&label=Profile%20Views&color=00ff00&style=flat" alt="profile views"/>
 </div>
 
-## 🛠️ Tech Stack
+---
 
-### 🤖 AI/ML Tools
+### 🧠 AI Arsenal
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/374094/gemini.svg" alt="Google Gemini" width="40" height="40"/>
-  <img src="https://logos-world.net/wp-content/uploads/2023/03/Anthropic-Logo.png" alt="Claude" width="40" height="40" style="background:white;padding:2px"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-663399?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-### 💻 Development
+### 💻 Tech Toolkit
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🎨 Design & Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+---
 
-## 📈 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshanpanda666&show_icons=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanpanda666&theme=vision-friendly-dark" />
+  <a href="https://app.daily.dev/RoshanPanda">
+    <img src="https://api.daily.dev/devcards/5d00d8f1f5a3464b8c4c7d8d8c3c3b4e.png?r=4s4" width="300" alt="Roshan Panda's Dev Card"/>
+  </a>
 </div>
 
-## 🌐 Let's Connect
+---
+
+### 📊 Development Analytics
+<div align="center">
+  
+  ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshanpanda666&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpanda666&layout=compact&theme=vision-friendly-dark&hide_border=true)
+</div>
+
+---
+
+### 🌐 Digital Footprint
 <p align="center">
-  <a href="https://twitter.com/roshan_panda007" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/sabyasachi-panda-7b1b7a1bb/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="https://connect-card-of-roshan.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a> 
-  <a href="mailto:your-email@example.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://twitter.com/roshan_panda007">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sabyasachi-panda-7b1b7a1bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://connect-card-of-roshan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=roshanpanda666&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" alt="coding gif">
 </div>
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> "The best way to predict the future is to create it." - Abraham Lincoln
