@@ -10,7 +10,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://connect-card-of-roshan.vercel.app/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roshan_panda007)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabyasachi-panda)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/roshan#4702)
 </div>
 
 ---
@@ -72,14 +71,11 @@
 
 ### 📫 Let's Connect
 <div align="center">
-  <a href="https://portfolio-of-sabyasachipanda.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white">
+  <a href="https://connect-card-of-roshan.vercel.app/">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
   <a href="mailto:roshanpanda666@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.gg/roshan#4702">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
