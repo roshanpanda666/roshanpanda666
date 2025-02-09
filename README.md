@@ -72,7 +72,7 @@
 
 ### 📫 Let's Connect
 <div align="center">
-  <a href="https://connect-card-of-roshan.vercel.app/">
+  <a href="https://portfolio-of-sabyasachipanda.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
   <a href="mailto:your-email@example.com">
