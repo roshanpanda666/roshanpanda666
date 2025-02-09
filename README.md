@@ -75,7 +75,7 @@
   <a href="https://portfolio-of-sabyasachipanda.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:roshanpanda666@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://discord.gg/roshan#4702">
