@@ -12,20 +12,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabyasachi-panda)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/roshan#4702)
 </div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://i.pinimg.com/originals/4a/65/16/4a6516eefcb386cb4c8e702f81f9e81c.gif">
-  </a>
-</h1>
-
-<div align="center">
-  <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://connect-card-of-roshan.vercel.app/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roshan_panda007)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabyasachi-panda)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/roshan#4702)
-</div>
 
 ---
 
