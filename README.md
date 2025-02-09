@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="![image](https://github.com/user-attachments/assets/59080f35-ca8a-443b-91aa-76972f49943d)
+    <img src="![image](https://github.com/user-attachments/assets/d1867bad-84cf-4d82-b3c5-e7ffb44ef5ed)
 ">
   </a>
 </h1>
