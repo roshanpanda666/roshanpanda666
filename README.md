@@ -63,7 +63,7 @@
 ---
 
 ### 🎯 Currently Learning
-![LangChain](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0)
+![LangChain](https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png)
 ![ChromaDB]([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png))
 
 ---
