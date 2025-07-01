@@ -63,8 +63,11 @@
 ---
 
 ### 🎯 Currently Learning
-![LangChain](https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png)
-![ChromaDB]([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png))
+
+<img src="https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png" alt="LangChain" width="300"/>
+
+<img src="https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png" alt="ChromaDB" width="300"/>
+
 
 ---
 
