@@ -63,9 +63,8 @@
 ---
 
 ### 🎯 Currently Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LangChain]([https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png))
+![ChromaDB]([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png))
 
 ---
 
