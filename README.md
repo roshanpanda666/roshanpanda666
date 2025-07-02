@@ -50,8 +50,8 @@
 #### 🔩 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Firmata](https://img.shields.io/badge/PyFirmata-000000?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-CB3837?style=for-the-badge&logo=python&logoColor=white)
-![Joystick](https://img.shields.io/badge/Joystick-Control-8A2BE2?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 #### 🧠 Agentic AI Dev
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-AI_Magic-FF00FF?style=for-the-badge)
