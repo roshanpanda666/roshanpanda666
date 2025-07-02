@@ -52,12 +52,6 @@
 ![Firmata](https://img.shields.io/badge/PyFirmata-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-
-#### 🧠 Agentic AI Dev
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-AI_Magic-FF00FF?style=for-the-badge)
-![Memory](https://img.shields.io/badge/ChromaDB_Memory-Contextual-0000FF?style=for-the-badge)
-![Voice AI](https://img.shields.io/badge/Voice_AI-TTS/STT-F02D3A?style=for-the-badge)
-
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
