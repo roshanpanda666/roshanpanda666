@@ -59,6 +59,41 @@
 
 ---
 
+---
+
+<details>
+<summary>🚀 Featured Projects</summary>
+
+### 🛡️ S.A.D.I.A.S.C. - Smart Anomaly Detection Intelligence and Surveillance Cam  
+![S.A.D.I.A.S.C.](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+🔐 **Face Auth** | 🧠 **AI Intruder Detection** | 🌩️ **Real-time Cloud Sync** | 💻 **CustomTk GUI + Next.js Dashboard**  
+> An advanced surveillance system with multi-cluster MongoDB, AI detection, and secure face-based access.  
+[🔗 Dashboard Demo](#) &nbsp;&nbsp; [💻 Source Code](#)
+
+---
+
+### 🎯 D.A.A.T.S. - Defensive Autonomous AI-based Turret System  
+🤖 **Gamepad + AI + Hand + Head Control**  
+> Reactive security turret with facial recognition, servo movement, and joystick integration. Fully controllable via multiple input modes.  
+[🎥 Watch Demo](#) &nbsp;&nbsp; [💻 Source Code](#)
+
+---
+
+### 📦 STOXY - Smart Inventory Manager  
+🛒 Object Detection | 📈 MongoDB Analytics | 🔐 Admin/User Panels  
+> Real-time inventory manager with AI-based product detection and cloud-linked dashboards.  
+[🛠 Try It Live](#) &nbsp;&nbsp; [📦 GitHub](#)
+
+---
+
+### 🧠 ROSE - Responsive Omni-directional Smart Entity  
+🌐 LangChain + Voice AI + ChromaDB Memory  
+> Your personal AI agent with memory, actions, and conversational skills. Currently in alpha phase—soon to go Bionic!  
+[🚧 Under Construction](#)
+
+</details>
+
+
 ### 📊 GitHub Analytics
 
 <div align="center">
