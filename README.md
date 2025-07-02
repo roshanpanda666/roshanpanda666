@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F715&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Panda;Full-Stack+Developer;Ai+Enthusiast;Open+Source+Contributor;IOT+for+fun">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F715&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Panda;Full-Stack+Developer;Agentic+AI+Engineer;IOT+Dev+%26+Tinkerer;System+Architect+%26+Open+Source+Lover">
   </a>
 </h1>
 
@@ -27,25 +27,42 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### 🗄️ Databases
+#### 📦 Databases & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge&logo=chromadb&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🤖 AI Skills
+#### 🤖 AI & ML Stack
+![LangChain](https://img.shields.io/badge/LangChain-00ffb3?style=for-the-badge&logo=langchain&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge&logo=chromadb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6C37?style=for-the-badge&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Teachable Machine](https://img.shields.io/badge/Teachable_Machine-FFCA28?style=for-the-badge&logo=google&logoColor=black)
+
+#### 🔩 Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Firmata](https://img.shields.io/badge/PyFirmata-000000?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-CB3837?style=for-the-badge&logo=python&logoColor=white)
+![Joystick](https://img.shields.io/badge/Joystick-Control-8A2BE2?style=for-the-badge)
+
+#### 🧠 Agentic AI Dev
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-AI_Magic-FF00FF?style=for-the-badge)
+![Memory](https://img.shields.io/badge/ChromaDB_Memory-Contextual-0000FF?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/Voice_AI-TTS/STT-F02D3A?style=for-the-badge)
 
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -68,7 +85,6 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png" alt="ChromaDB" width="300"/>
 
-
 ---
 
 ### 📫 Let's Connect
@@ -83,4 +99,9 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> _"First, solve the problem. Then, build an AI agent that solves all problems."_ 🔥
+
+---
+
+Let me know if you wanna add **project showcase** sections or make it *animated, collapsible, or even terminal-style*! 💻🚀  
+Ready to push your README to **legend status**? 🧠🌐
