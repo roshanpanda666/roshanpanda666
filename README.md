@@ -27,7 +27,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### 📦 Databases & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,7 +36,6 @@
 
 #### 🤖 AI & ML Stack
 ![LangChain](https://img.shields.io/badge/LangChain-00ffb3?style=for-the-badge&logo=langchain&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge&logo=chromadb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -56,8 +54,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
 
 ---
 
@@ -93,13 +89,14 @@
 
 </details>
 
+---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/roshanpanda666">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshanpanda666&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanpanda666&theme=vision-friendly-dark&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=roshanpanda666&theme=vision-friendly-dark&hide_border=true&border_radius=10&ring=FF00FF" />
   </a>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanpanda666&theme=react-dark&hide_border=true&area=true" width="100%">
@@ -110,7 +107,6 @@
 ### 🎯 Currently Learning
 
 <img src="https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png" alt="LangChain" width="300"/>
-
 <img src="https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png" alt="ChromaDB" width="300"/>
 
 ---
@@ -128,5 +124,3 @@
 ---
 
 > _"First, solve the problem. Then, build an AI agent that solves all problems."_ 🔥
-
----
