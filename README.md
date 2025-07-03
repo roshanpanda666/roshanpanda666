@@ -36,6 +36,7 @@
 
 #### 🤖 AI & ML Stack
 ![LangChain](https://img.shields.io/badge/LangChain-00ffb3?style=for-the-badge&logo=langchain&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge&logo=chromadb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -61,31 +62,30 @@
 <summary>🚀 Featured Projects</summary>
 
 ### 🛡️ S.A.D.I.A.S.C. - Smart Anomaly Detection Intelligence and Surveillance Cam  
-![S.A.D.I.A.S.C.](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-🔐 **Face Auth** | 🧠 **AI Intruder Detection** | 🌩️ **Real-time Cloud Sync** | 💻 **CustomTk GUI + Next.js Dashboard**  
-> An advanced surveillance system with multi-cluster MongoDB, AI detection, and secure face-based access.  
-[🔗 Dashboard Demo](#) &nbsp;&nbsp; [💻 Source Code](#)
+🔐 **Face Auth** | 🧠 **AI Intruder Detection** | 🌩️ **Cloud Sync** | 🖥️ **Next.js + CustomTk GUI**  
+> A smart surveillance system with real-time alerts, multi-cluster MongoDB integration, and face-recognition-based access.  
+[💻 Source Code](#)
 
 ---
 
 ### 🎯 D.A.A.T.S. - Defensive Autonomous AI-based Turret System  
-🤖 **Gamepad + AI + Hand + Head Control**  
-> Reactive security turret with facial recognition, servo movement, and joystick integration. Fully controllable via multiple input modes.  
-[🎥 Watch Demo](#) &nbsp;&nbsp; [💻 Source Code](#)
+🤖 **Joystick + AI + Face/Hand/Head Control**  
+> Intelligent turret system using MediaPipe + servo hardware. Built for defense, trained for precision.  
+[💻 GitHub](#)
 
 ---
 
 ### 📦 STOXY - Smart Inventory Manager  
-🛒 Object Detection | 📈 MongoDB Analytics | 🔐 Admin/User Panels  
-> Real-time inventory manager with AI-based product detection and cloud-linked dashboards.  
-[🛠 Try It Live](#) &nbsp;&nbsp; [📦 GitHub](#)
+📈 **Real-Time Object Detection** | 📊 **Dashboard Insights**  
+> Inventory system powered by AI and cloud tech. Admin and User modes for seamless tracking.  
+[🚀 Demo](#)
 
 ---
 
 ### 🧠 ROSE - Responsive Omni-directional Smart Entity  
-🌐 LangChain + Voice AI + ChromaDB Memory  
-> Your personal AI agent with memory, actions, and conversational skills. Currently in alpha phase—soon to go Bionic!  
-[🚧 Under Construction](#)
+🧠 LangChain + Voice + Memory + Multi-modal  
+> Your Agentic AI companion. Context-aware. Action-capable. Future-ready.  
+[🚧 Currently in Alpha](#)
 
 </details>
 
@@ -94,11 +94,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/roshanpanda666">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshanpanda666&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=roshanpanda666&theme=vision-friendly-dark&hide_border=true&border_radius=10&ring=FF00FF" />
-  </a>
-  <br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshanpanda666&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=roshanpanda666&theme=vision-friendly-dark&hide_border=true&border_radius=10&ring=FF00FF" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanpanda666&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
@@ -107,6 +107,7 @@
 ### 🎯 Currently Learning
 
 <img src="https://miro.medium.com/v2/resize:fit:1054/1*VVVfIEjkbnSrrwPgzr_DUg.png" alt="LangChain" width="300"/>
+
 <img src="https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png" alt="ChromaDB" width="300"/>
 
 ---
@@ -124,3 +125,6 @@
 ---
 
 > _"First, solve the problem. Then, build an AI agent that solves all problems."_ 🔥
+
+---
+
