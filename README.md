@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e1ab0c4-1d71-4242-adc8-cbf8e2e433f4)<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F715&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Panda;Full-Stack+Developer;Agentic+AI+Engineer;IOT+Dev+%26+Tinkerer;System+Architect+%26+Open+Source+Lover">
   </a>
