@@ -34,6 +34,7 @@
 #### 🖥️ GUI Desktop Apps
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFDF00?style=for-the-badge&logo=python&logoColor=black)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 
 #### 📦 Databases & Auth
