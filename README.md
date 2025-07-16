@@ -31,6 +31,10 @@
 ![PyMongo](https://img.shields.io/badge/PyMongo-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### 🖥️ GUI Desktop Apps
+![Tkinter](https://img.shields.io/badge/Tkinter-FFDF00?style=for-the-badge&logo=python&logoColor=black)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### 📦 Databases & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
