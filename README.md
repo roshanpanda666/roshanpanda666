@@ -125,7 +125,7 @@
 
 ### 📫 Let's Connect
 <div align="center">
-  <a href="https://connect-card-of-roshan.vercel.app/">
+  <a href="https://roxian-space.vercel.app/connect">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
   <a href="mailto:roshanpanda666@gmail.com">
